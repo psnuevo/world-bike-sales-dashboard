@@ -47,7 +47,7 @@ world-bike-sales-dashboard/
     ![Revenue, Cost & Profit By Year](images/Revenue_Cost_Profit_Per_Year.png)
 - **Monthly Revenue Trend**
     ![Monthly Revenue Trend](images/Monthly_Revenue_Trend.png)
--  **Profit Trends Across Top Countries**
+-  **Profit Trends Across Top Countries**<br>
     ![Profit Trends Across Top Countries](images/Profit_Per_Country.png)
 
 ## Future Enhancements
